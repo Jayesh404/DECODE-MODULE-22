@@ -1,0 +1,8 @@
+Q. What does this function do ?
+
+a.Prints binary representation of n in reverse order
+b.Prints binary representation of n
+c.Print the value of Log n
+d.Print the value of Log n in reverse order
+
+Incomplete Question
